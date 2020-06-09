@@ -2,7 +2,7 @@
 <Document>
   <Engineering version="V16" />
   <DocumentInfo>
-    <Created>2020-06-09T13:04:10.9917559Z</Created>
+    <Created>2020-06-09T13:08:35.719678Z</Created>
     <ExportSetting>WithDefaults</ExportSetting>
     <InstalledProducts>
       <Product>
@@ -84,7 +84,7 @@
     </Access>
     <Access Scope="GlobalVariable" UId="22">
       <Symbol>
-        <Component Name="Tag_3" />
+        <Component Name="Tag_4" />
       </Symbol>
     </Access>
     <Part Name="Move" UId="23" DisabledENO="true">
